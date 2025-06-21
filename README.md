@@ -1,2 +1,3 @@
 # Password-generator
-this is project
+this is project <br>
+i trying the github
